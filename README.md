@@ -10,5 +10,5 @@ As part of my internship, I completed six courses from the IBM AI Engineer Profe
 4. Introduction to Neural Networks and PyTorch
 - Throughout this course, I gained hands-on experience with **PyTorch**, working with **tensors**, **differentiation**, and implementing models like **linear** and **logistic regression**. I explored key techniques such as **gradient descent**, **optimization**, and built **deep neural networks** using **backpropagation**, **dropout**, and **batch normalization**, alongside practical work with **Convolutional Neural Networks (CNNs)** and **TorchVision models** for advanced applications.
 5. Building Deep Learning Models with TensorFlow
-- Learned the fundamentals of TensorFlow for building, training, and deploying deep learning models.
+- Throughout this journey, I gained a deep understanding of TensorFlow and its applications, including linear regression, logistic regression, and convolutional neural networks (CNN). I also delved into both supervised and unsupervised deep learning with TensorFlow. The course included numerous hands-on labs, which provided practical experience and solidified my understanding of these concepts. 
 6. AI Capstone Project with Deep Learning
