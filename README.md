@@ -3,3 +3,12 @@
 As part of my internship, I completed six courses from the IBM AI Engineer Professional Certificate Program. These courses significantly contributed to my knowledge and skills, which I applied directly in my projects. Here's a brief overview of each course and its relevance:
 1. Machine Learning with Python
 - This course introduced me to core machine learning concepts, including regression, classification, clustering, and model evaluation techniques.
+2. Introduction to Deep Learning & Neural Networks with Keras
+- This course covered the basics of deep learning and neural networks, with hands-on projects using Keras.
+3. Introduction to Computer Vision and Image Processing
+- Covered key computer vision concepts and techniques for image processing.
+4. Introduction to Neural Networks and PyTorch
+- Focused on using PyTorch to implement neural networks and tackle more advanced concepts like gradient descent, backpropagation, and optimizers.
+5. Building Deep Learning Models with TensorFlow
+- Learned the fundamentals of TensorFlow for building, training, and deploying deep learning models.
+6. AI Capstone Project with Deep Learning
