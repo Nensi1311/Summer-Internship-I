@@ -4,7 +4,7 @@ As part of my internship, I completed six courses from the IBM AI Engineer Profe
 1. Machine Learning with Python
 - Throughout this course, I gained a strong foundation in **Machine Learning (ML)**, exploring various algorithms and techniques such as regression, classification, and clustering. I applied these concepts in a hands-on final project, which helped solidify my understanding of real-world ML applications.
 2. Introduction to Deep Learning & Neural Networks with Keras
-- This course covered the basics of deep learning and neural networks, with hands-on projects using Keras.
+- During this course, I gained in-depth knowledge of **Deep Learning**, including core concepts such as **Neurons**, **Artificial Neural Networks (ANNs)**, and techniques like **Gradient Descent**, **Backpropagation**, and **Activation Functions**. I worked hands-on with **Keras** to perform classification and regression tasks, while also exploring advanced architectures like **Convolutional Neural Networks (CNNs)** and **Recurrent Neural Networks (RNNs)** for real-world applications.
 3. Introduction to Computer Vision and Image Processing
 - Covered key computer vision concepts and techniques for image processing.
 4. Introduction to Neural Networks and PyTorch
