@@ -13,3 +13,5 @@ As part of my internship, I completed six courses from the IBM AI Engineer Profe
 - Throughout this journey, I gained a deep understanding of TensorFlow and its applications, including linear regression, logistic regression, and convolutional neural networks (CNN). I also delved into both supervised and unsupervised deep learning with TensorFlow. The course included numerous hands-on labs, which provided practical experience and solidified my understanding of these concepts. 
 6. AI Capstone Project with Deep Learning
 - I applied all the knowledge gained from previous courses,
+
+Course Link: https://www.coursera.org/professional-certificates/ai-engineer#courses
